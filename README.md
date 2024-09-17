@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ayush-Dugar
-- 👀 I’m interested learing how to code by doing fun projects. I'm interest in game design and development
+- 👀 I’m interested learing how to code by doing fun projects. I'm interested in game design and development
 - 🌱 I’m currently learning C
 - 📫 How to reach me dugarayush5@gmail.com
 
